@@ -1,13 +1,13 @@
 #Backend technical Test v2,
 
-Technical stack :
+# Technical stack :
 Docker for containerize the application
 Mapstruct for java bean mappings at compile-time.
 H2 as in-memory database.
 Liquibase is for managing database. 
 JaCoCo for test coverage report.
 
-Business requirement :
+# Business requirement :
 For secured operation :
 login : Miquel
 Password : Miquel 
@@ -35,4 +35,4 @@ docker-compose up --build
 
 # Visualize and interact with the API's resources :
 
-http://localhost:9999/swagger-ui.html
+URL : http://localhost:9999/swagger-ui.html
