@@ -22,13 +22,13 @@ Last name : kacimi (not valid)
 
 
 
-##Build project
+Build project
 To build the project, run the maven command
 ```
 mvn clean install
 ```
 
-##Run the project
+Run the project
 ```
 docker-compose up --build
 ```
