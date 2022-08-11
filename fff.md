@@ -33,6 +33,6 @@ mvn clean install
 docker-compose up --build
 ```
 
-##Visualize and interact with the API's resources :
+# Visualize and interact with the API's resources :
 
 http://localhost:9999/swagger-ui.html
