@@ -10,24 +10,24 @@
 # Business requirement :
 * For secured operation :
 ```
-login : Miquel
+login    : Miquel
 Password : Miquel
 ```
 * Phone number must be 10 digits
-* First name and last name must follows the pattern
+* First name and last name must follows the pattern :
 ```
 [A-Z][a-z]
 ```
 
-example 1 :
+Example 1 :
 ```
 First name : Badr (valid)
-Last name : Kacimi (valid)
+Last name  : Kacimi (valid)
 ```
-example 2
+Example 2 :
 ```
 First name : BADR (not valid)
-Last name : kacimi (not valid)
+Last name  : kacimi (not valid)
 ```
 
 # Build project
