@@ -9,10 +9,15 @@
 
 # Business requirement :
 * For secured operation :
+```
 login : Miquel
-Password : Miquel 
+Password : Miquel
+```
 * Phone number must be 10 digits
-* First name and last name must follows the pattern [A-Z][a-z]
+* First name and last name must follows the pattern
+```
+[A-Z][a-z]
+```
 
 example 1 :
 ```
