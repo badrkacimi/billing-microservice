@@ -1,2 +1,2 @@
 # billing-service
-micro service de billing of customers (factures) utilisant spring cloud, eureka, gateway
+Simple billing microservice using Spring Cloud Gateway Feign, Eureka, Spring Cloud Gateway
